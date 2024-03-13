@@ -3,8 +3,14 @@
 ## Why I choose monkey as my emoji ❓
 
 My project is about a monkey emoji pack. Among numerous images, it seems to be "calling out" to me.
-I feel it perfectly captures my daily routine: confusion.
-***Who*** I am, ***where*** I am, ***what*** I'm supposed to do, or what tasks lie ahead of me.
+I feel it perfectly captures my daily routine: confusion.😵‍💫😵‍💫😵‍💫😵‍💫
+<ol>
+  <li>***Who*** I am</li>
+  <li>***where*** I am</li>
+  <li>***what*** I'm supposed to do</li>
+  <li>what tasks lie ahead of me.</li>
+  <li>...</li>
+</ol>
 
 
 ## My idea💡
