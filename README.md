@@ -9,7 +9,7 @@ I feel it perfectly captures my daily routine: ***confusion***.😵‍💫😵�
   <li> where I am</li>
   <li> what I'm supposed to do</li>
   <li> what tasks lie ahead of me.</li>
-  <li></li>
+  <li>...</li>
 </ol>
 
 
